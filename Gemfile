@@ -33,3 +33,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
+
+#2014/06/18 add suzukatsu 
+gem 'minitest'
